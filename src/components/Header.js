@@ -11,14 +11,15 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.h1`
-  color: #f5913e;
+  color: #553c9a;
+  font-family: 'Poppins', sans-serif;
 `;
 
 const Link = styled(ReachRouterLink)`
   background-color: #e0e0e0;
   margin: 1rem;
   height: fit-content;
-  color: #f5913e;
+  color: #553c9a;
   border: 0;
   font-size: 1.2em;
   border-radius: 3px;
@@ -26,10 +27,11 @@ const Link = styled(ReachRouterLink)`
   cursor: pointer;
   text-decoration: none;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 
   &:hover {
-    background: #f5913e;
-    color: #e0e0e0;
+    background: #553c9a;
+    color: #f4f4f4;
   }
 `;
 

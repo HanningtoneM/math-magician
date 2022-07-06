@@ -3,6 +3,9 @@ describe('Testing operate.js file', () => {
   it('Test sum 3 + 3 = 6', () => {
     expect(operate('3', '3', '+')).toBe('6');
   });
+  it('Test subtraction 10 - 3 = 7', () => {
+    expect(operate('10', '3', '-')).toBe('7');
+  });
   it('Test multiply 3 * 3 = 9', () => {
     expect(operate('3', '3', 'x')).toBe('9');
   });

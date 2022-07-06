@@ -2,8 +2,11 @@ import React from 'react';
 
 export default function Home() {
   return (
-    <div style={{ width: '54rem', margin: '0 auto' }}>
-      <h1 style={{ color: 'darkGray' }}>Welcome to our page</h1>
+    <div style={{
+      width: '54rem', margin: '0 auto', fontFamily: 'Poppins', letterSpacing: '1px',
+    }}
+    >
+      <h1 style={{ color: '#00c2cb' }}>Welcome to our page</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim illum vel
         modi cupiditate, voluptatem vitae consequuntur, culpa quidem eligendi

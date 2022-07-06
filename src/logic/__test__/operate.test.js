@@ -1,4 +1,5 @@
 import operate from '../operate';
+
 describe('Testing operate.js file', () => {
   it('Test sum 3 + 3 = 6', () => {
     expect(operate('3', '3', '+')).toBe('6');

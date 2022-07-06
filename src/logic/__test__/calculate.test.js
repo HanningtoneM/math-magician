@@ -1,4 +1,5 @@
 import calculate from '../calculate';
+
 describe('Testing calculate.js file', () => {
   it('Test sum 2 + 2 = 4 operation', () => {
     const obj = {

@@ -8,7 +8,8 @@ math-magician  built with React
 
 ## Live Demo
 
-[Live Demo Link]()
+[netlify live demo](https://math-pompie.netlify.app/)
+[Heroku live demo](https://mathmagicianspompie.herokuapp.com/)
 
 ## Available Scripts
 
